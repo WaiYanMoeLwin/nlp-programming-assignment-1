@@ -1,0 +1,10 @@
+said: 462
+alice: 385
+nt: 216
+little: 128
+one: 101
+would: 96
+could: 86
+know: 86
+like: 85
+went: 83
